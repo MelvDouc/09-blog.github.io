@@ -11,3 +11,16 @@ h1 {
 a {
     text-decoration: none;
 }
+
+/*  */
+
+.entourer {
+    border: 1px solid lightgray;
+    margin: .75em 0;
+    padding: .33em
+}
+
+.texte-justifier {
+    text-align: justify;
+}
+
